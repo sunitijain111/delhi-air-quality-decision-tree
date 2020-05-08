@@ -1,0 +1,2 @@
+This is to try what happened when we apply decision tree to predict continuous values.
+the results are with negative r-square. this can be explained with the fact that th e originl data had >50% null values.
